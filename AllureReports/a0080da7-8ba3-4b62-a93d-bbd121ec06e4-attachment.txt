@@ -1,0 +1,4 @@
+Test Run - Browser Firefox
+Number of rows in excel sheet-->5
+username-->admin@yourstore.com
+password-->admin
